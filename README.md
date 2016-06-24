@@ -1,1 +1,2 @@
-# nvidia_deep_learning_summercamp_2016
+# Nvidia Deep Learning Summercamp 2016
+*Casper Sønderby, University of Copenhagen*
